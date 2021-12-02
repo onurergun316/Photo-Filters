@@ -8,10 +8,16 @@ Filtering photos from given database based on the query of the user enters
 
 Original Image
 <img src="https://github.com/onurergun316/Photo-Filters/blob/master/car_photos/car3.jpg?raw=true" width = '800' height = '500'>
+Salt and Pepper filtered
 <img src="https://github.com/onurergun316/Photo-Filters/blob/master/filtered_photos/car/car3_salt-pepper_filtered.jpg?raw=true" width = '800' height = '500'>
+Disposable Filtered
 <img src="https://github.com/onurergun316/Photo-Filters/blob/master/filtered_photos/car/car3_disposable.jpg?raw=true" width = '800' height = '500'>
+Cold Filtered
 <img src="https://github.com/onurergun316/Photo-Filters/blob/master/filtered_photos/car/car3_cold_filtered.jpg?raw=true" width = '800' height = '500'>
+Desaturated
 <img src="https://github.com/onurergun316/Photo-Filters/blob/master/filtered_photos/car/car3_desaturated.jpg?raw=true" width = '800' height = '500'>
+Black and White Filtered
 <img src="https://github.com/onurergun316/Photo-Filters/blob/master/filtered_photos/car/car3_bw_filtered.jpg?raw=true" width = '800' height = '500'>
+Inverted Filtered
 <img src="https://github.com/onurergun316/Photo-Filters/blob/master/filtered_photos/car/car3_inverted_filtered.jpg?raw=true" width = '800' height = '500'>
 
