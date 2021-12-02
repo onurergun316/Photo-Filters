@@ -21,9 +21,8 @@ Black and White Filtered
 Inverted Filtered
 <img src="https://github.com/onurergun316/Photo-Filters/blob/master/filtered_photos/car/car3_inverted_filtered.jpg?raw=true" width = '800' height = '500'>
 
-Others Samples
-<img src="https://github.com/onurergun316/Photo-Filters/blob/master/filtered_photos/portrait/portrait5_disposable.jpg?raw=true" width = '300' height = '200'>
-<img src="https://github.com/onurergun316/Photo-Filters/blob/master/filtered_photos/portrait/portrait5_salt-pepper_filtered.jpg?raw=true" width = '300' height = '200'>
+<img src="https://github.com/onurergun316/Photo-Filters/blob/master/filtered_photos/portrait/portrait5_disposable.jpg?raw=true" width = '200' height = '300'>
+<img src="https://github.com/onurergun316/Photo-Filters/blob/master/filtered_photos/portrait/portrait5_salt-pepper_filtered.jpg?raw=true" width = '200' height = '300'>
 <img src="https://github.com/onurergun316/Photo-Filters/blob/master/filtered_photos/landscape/landscape3_inverted_filtered.jpg?raw=true" alt="landscape3_inverted_filtered.jpg" width = '300' height = '200'>
 <img src="https://github.com/onurergun316/Photo-Filters/blob/master/filtered_photos/landscape/landscape4_cold_filtered.jpg?raw=true" alt="landscape3_inverted_filtered.jpg" width = '300' height = '200'>
 <img src="https://github.com/onurergun316/Photo-Filters/blob/master/filtered_photos/landscape/landscape5_desaturated.jpg?raw=true" alt="landscape3_inverted_filtered.jpg" width = '300' height = '200'>
