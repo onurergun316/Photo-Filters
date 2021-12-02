@@ -6,4 +6,4 @@ portrait_photos : portrait photos to filter
 landscape_photos : landscape photos to filter
 filtered_photos : filtered photos of given query photos 
 
-![/car_photos/car3-jpg]
+![car_photos/car3-jpg]
