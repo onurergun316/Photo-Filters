@@ -6,4 +6,4 @@ Filtering photos from given database based on the query of the user enters
 4. landscape_photos : landscape photos to filter
 5. filtered_photos : filtered photos of given query photos 
 
-![original_car3](https://github.com/onurergun316/Photo-Filters/blob/master/car_photos/car3.jpg =250x250)
+<img src="/onurergun316/Photo-Filters/blob/master/car_photos/car3.jpg?raw=true" alt="car3.jpg" width="200" height="200">
