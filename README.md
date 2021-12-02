@@ -7,3 +7,4 @@ Filtering photos from given database based on the query of the user enters
 5. filtered_photos : filtered photos of given query photos 
 
 <img src="https://github.com/onurergun316/Photo-Filters/blob/master/car_photos/car3.jpg?raw=true" alt="car3.jpg" width = '500' height = '300'>
+<img src="https://github.com/onurergun316/Photo-Filters/blob/master/filtered_photos/car/car3_bw_filtered.jpg?raw=true" alt="car3_bw_filtered.jpg" width = '500' height = '300'>
